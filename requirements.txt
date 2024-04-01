@@ -1,0 +1,12 @@
+streamlit
+requests
+langchain
+openai
+qdrant-client
+tiktoken
+datasets
+langchain-groq
+langchain_openai
+huggingface_hub
+pandas
+numpy
